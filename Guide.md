@@ -1,5 +1,7 @@
 # DevTools Quick Guide
 
+Example page: [imobiliare.ro Timisoara listings](https://www.imobiliare.ro/vanzare-imobiliare/judetul-timis/timisoara)
+
 1. Open the page and press F12 to open DevTools.
 
 ![Step 1](lessons_files/Step%201.png)

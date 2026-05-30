@@ -1,5 +1,7 @@
 # Ghid Rapid DevTools
 
+Pagina exemplu: [imobiliare.ro Timisoara listings](https://www.imobiliare.ro/vanzare-imobiliare/judetul-timis/timisoara)
+
 1. Deschide pagina si apasa F12 ca sa deschizi DevTools.
 
 ![Pasul 1](lessons_files/Step%201.png)
